@@ -17,7 +17,6 @@
 // console.log(SecondMax);
 
 
-
 // //Q3 reversed Elements
 
 // let elements = [1,2,3,4,5,6,7,8,9,10];
@@ -78,13 +77,12 @@
 // console.log(withoutDuplicate);
 
 
-// Q6 Find the Missing number
+// // Q6 Find the Missing number
 
 // let missingNumber = [1,12,10];
 // let fullNumber = [];
 
 // let maximum = missingNumber[0];
-// // let minimum =  missingNumber[0];
 
 // for(let i=0; i<missingNumber.length;i++){
 // 	if(missingNumber[i]>maximum){
@@ -99,17 +97,12 @@
 //             flag = false;
 //             break;
 //         }
-//         // console.log(j);
-        
 //     }
 //     if(flag){
 //         fullNumber[fullNumber.length] = i;
 //     }
-
-//     console.log(i);
 // }
 
-// // console.log(minimum,maximum);
 // console.log(fullNumber);
 
 
